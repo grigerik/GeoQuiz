@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_europe">Москва - столица России</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Неверно!</string>
+    <string name="next_button">Вперед</string>
+    <string name="question_oceans">Тихий океан больше, чем Атлантический</string>
+    <string name="question_mideast">Суэцкий Канал соединяет Красное море и Индийский океан</string>
+    <string name="question_africa">Исток Нила находится в Египте</string>
+    <string name="question_americas">Река Амазонка самая длинная в Америке</string>
+    <string name="question_asia">Озеро Байкал самое старое и глубокое пресное озеро в мире</string>
+    <string name="question_australia">Канберра - столица Австралии</string>
+    <string name="prev_button">Назад</string>
+    <string name="warning_text">Вы уверены, что хотите это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="cheat_button">Нечестно</string>
+    <string name="judgment_toast">Подглядывать не хорошо!</string>
+    <string name="your_result">Ваш результат:</string>
+    <string name="replay">Заново</string>
+</resources>
